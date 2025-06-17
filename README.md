@@ -4,7 +4,8 @@ Welcome to the **Spotify Clone** project — a responsive and sleek music stream
 
 🔗 Live Demo
 ------------
-👉 View Live App: 
+👉 View Live App: https://spotify-clone-six-bay.vercel.app/
+
 
 ## 📸 Screenshots & Visuals
 
