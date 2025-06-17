@@ -109,6 +109,8 @@ npm run dev
 ## 📬 Contact
 
 If you have questions, feel free to open an issue or reach out.
+- Email : kushalj400231@gmail.com
+- LikedIn : https://www.linkedin.com/in/kushalj1/
 
 ---
 
